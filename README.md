@@ -100,6 +100,3 @@ gcc main.c contact.c file.c populate.c -o a.out
 
 ---
 
-## Resume Summary
-
-Developed a modular Address Book Management System in C implementing full CRUD operations with persistent CSV storage and Makefile-based build automation.
